@@ -1,4 +1,4 @@
-const key = config.API_KEY;
+const key = <YOUR_API_KEY>;
 const playlistId = 'PLywiNEAPE4I9mIv_edkzGeyJkeJmB9b8J';
 
 fetch(
